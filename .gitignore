@@ -1,0 +1,6 @@
+venv/.git
+INPUTS/
+OUTPUTS/
+egulp-master
+lammps_interface-master
+lammps_interface-master_copy

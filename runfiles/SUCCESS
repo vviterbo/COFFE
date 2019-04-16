@@ -1,0 +1,24 @@
+log             log.05000N2 append
+units           real
+atom_style      charge
+boundary        p p p
+
+pair_style      lj/cut/coul/long 10.0
+kspace_style ewald 1.0e-4
+
+dielectric      1.0
+box tilt        large
+read_data       ../runfiles/data.05000N2 group 1
+
+#### Atom Groupings ####
+group           1        id   1:2
+#### END Atom Groupings ####
+kspace_style ewald 1.0e-4
+read_data ../runfiles/data.probe add append group 2
+pair_modify mix arithmetic
+compute 1 1 group/group 2 kspace yes
+#compute 1 all pair lj/cut/coul/cut
+fix 1 all setforce 0.0 0.0 0.0
+run 1
+print "///// ///$(evdwl)///$(ecoul)///"
+

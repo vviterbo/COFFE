@@ -1,0 +1,754 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6742f775-f050-4cc2-8c21-f60e8e70562a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/venv/E_calc.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/E_calc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/initialization.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/initialization.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/param.txt" beforeDir="false" afterPath="$PROJECT_DIR$/venv/param.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/runtimes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/venv/runtimes.txt" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/venv/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="347">
+              <caret line="93" column="26" lean-forward="true" selection-start-line="93" selection-start-column="26" selection-end-line="93" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/venv/plotter.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/post_proc/plot_allinone8.gnu">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="31" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/venv/post_script.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="648">
+              <caret line="67" column="24" selection-start-line="67" selection-start-column="24" selection-end-line="67" selection-end-column="24" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/venv/E_calc.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="454">
+              <caret line="101" column="65" selection-start-line="101" selection-start-column="65" selection-end-line="101" selection-end-column="65" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/venv/utils.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="215">
+              <caret line="269" selection-start-line="269" selection-end-line="269" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>0.35010</find>
+      <find>0.21961</find>
+      <find>in_im</find>
+      <find>d_min</find>
+      <find>net_</find>
+      <find>min_im</find>
+      <find>d</find>
+      <find>sys</find>
+      <find>np.a</find>
+      <find>print</find>
+      <find>nx</find>
+      <find>set_z</find>
+      <find>pbc</find>
+      <find>shift</find>
+      <find>ls</find>
+      <find>set</find>
+      <find>set_tai</find>
+      <find>tail</find>
+      <find>sys.arg</find>
+      <find>master.zspa</find>
+      <find>include pbc</find>
+      <find>zspan</find>
+      <find>PYTHON_</find>
+      <find>LJ</find>
+      <find>lj</find>
+      <find>coul_tail_cor</find>
+      <find>&quot;coul tail correction&quot;</find>
+      <find>read</find>
+      <find>OUTPUTS/*.cif</find>
+      <find>utoff in range(5, 30.1,</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/venv" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/venv/Lammps_bm.py" />
+        <option value="$PROJECT_DIR$/lammps_interface-master/notebooks/lammps_interface.ipynb" />
+        <option value="$PROJECT_DIR$/venv/sheet_prep.py" />
+        <option value="$PROJECT_DIR$/lammps_interface-master/build/lib/lammps_interface/create_cluster.py" />
+        <option value="$PROJECT_DIR$/INPUTS/test.cif" />
+        <option value="$PROJECT_DIR$/venv/bench.py" />
+        <option value="$PROJECT_DIR$/venv/test.cif" />
+        <option value="$PROJECT_DIR$/venv/in.test" />
+        <option value="$PROJECT_DIR$/venv/data.test" />
+        <option value="$PROJECT_DIR$/lammps_interface-master_copy/lammps_interface/lammps_main.py" />
+        <option value="$PROJECT_DIR$/venv/data.probe" />
+        <option value="$PROJECT_DIR$/venv/in.05000N2" />
+        <option value="$PROJECT_DIR$/venv/bm_master.py" />
+        <option value="$PROJECT_DIR$/OUTPUTS/0.4_0.75_0.01_1_1_1_0_1/PYTHON_BM.dat" />
+        <option value="$PROJECT_DIR$/venv/data.05000N2" />
+        <option value="$PROJECT_DIR$/venv/in.init" />
+        <option value="$PROJECT_DIR$/venv/SUCCESS" />
+        <option value="$PROJECT_DIR$/venv/plot_allinone2.gnu" />
+        <option value="$PROJECT_DIR$/venv/initialization.pyx" />
+        <option value="$PROJECT_DIR$/venv/utils.pyx" />
+        <option value="$PROJECT_DIR$/venv/E_calc.pyx" />
+        <option value="$PROJECT_DIR$/runfiles/in.init" />
+        <option value="$PROJECT_DIR$/OUTPUTS/PYTHON_BM_30.0.dat" />
+        <option value="$PROJECT_DIR$/runfiles/SUCCESS_copy" />
+        <option value="$PROJECT_DIR$/venv/log.05000N2" />
+        <option value="$PROJECT_DIR$/INPUTS/09010N2.cif" />
+        <option value="$PROJECT_DIR$/venv/runtimes.txt" />
+        <option value="$PROJECT_DIR$/venv/dftb_prep.py" />
+        <option value="$PROJECT_DIR$/INPUTS/05000N2.cif" />
+        <option value="$PROJECT_DIR$/OUTPUTS/sigma_10/LAMMPS_BM_10.0.dat" />
+        <option value="$PROJECT_DIR$/OUTPUTS/sigma_10/PYTHON_BM_10.0.dat" />
+        <option value="$PROJECT_DIR$/OUTPUTS/sigma_30/LAMMPS_BM_30.0.dat" />
+        <option value="$PROJECT_DIR$/OUTPUTS/sigma_30/PYTHON_BM_30.0.dat" />
+        <option value="$PROJECT_DIR$/OUTPUTS/sigma_15/LAMMPS_BM_15.0.dat" />
+        <option value="$PROJECT_DIR$/OUTPUTS/sigma_15/PYTHON_BM_15.0.dat" />
+        <option value="$PROJECT_DIR$/OUTPUTS/sigma_40/PYTHON_BM_40.0.dat" />
+        <option value="$PROJECT_DIR$/OUTPUTS/sigma_70/PYTHON_BM_70.0.dat" />
+        <option value="$PROJECT_DIR$/runfiles/data.05000N2" />
+        <option value="$PROJECT_DIR$/venv/test.py" />
+        <option value="$PROJECT_DIR$/venv/utils.py" />
+        <option value="$PROJECT_DIR$/venv/lmp_bench.py" />
+        <option value="$PROJECT_DIR$/runfiles/in.05000N2" />
+        <option value="$PROJECT_DIR$/venv/post_script.py" />
+        <option value="$PROJECT_DIR$/venv/initialization.py" />
+        <option value="$PROJECT_DIR$/venv/param.txt" />
+        <option value="$PROJECT_DIR$/runfiles/in.08012N2" />
+        <option value="$PROJECT_DIR$/runfiles/SUCCESS" />
+        <option value="$PROJECT_DIR$/venv/E_calc.py" />
+        <option value="$PROJECT_DIR$/venv/plotter.py" />
+        <option value="$PROJECT_DIR$/post_proc/plot_allinone8.gnu" />
+        <option value="$PROJECT_DIR$/venv/main.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1280" />
+    <option name="height" value="800" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="COF" type="b2602c69:ProjectViewProjectNode" />
+              <item name="COF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="COF" type="b2602c69:ProjectViewProjectNode" />
+              <item name="COF" type="462c0819:PsiDirectoryNode" />
+              <item name="INPUTS" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="COF" type="b2602c69:ProjectViewProjectNode" />
+              <item name="COF" type="462c0819:PsiDirectoryNode" />
+              <item name="OUTPUTS" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="COF" type="b2602c69:ProjectViewProjectNode" />
+              <item name="COF" type="462c0819:PsiDirectoryNode" />
+              <item name="Parameters" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="COF" type="b2602c69:ProjectViewProjectNode" />
+              <item name="COF" type="462c0819:PsiDirectoryNode" />
+              <item name="post_proc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="COF" type="b2602c69:ProjectViewProjectNode" />
+              <item name="COF" type="462c0819:PsiDirectoryNode" />
+              <item name="runfiles" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="COF" type="b2602c69:ProjectViewProjectNode" />
+              <item name="COF" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="COF" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Course" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/OUTPUTS/cutoff_100_LJ+Coul" />
+      <recent name="$PROJECT_DIR$/OUTPUTS/conv" />
+      <recent name="$PROJECT_DIR$/OUTPUTS/conv/Eprof_Coul_30" />
+      <recent name="$PROJECT_DIR$/venv" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/INPUTS" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.plotter">
+    <configuration name="dftb_prep" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="COF" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/dftb_prep.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="COF" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="plotter" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="COF" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/plotter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="post_script" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="COF" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/post_script.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="utils.pyx" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="COF" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/utils.pyx" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.plotter" />
+        <item itemvalue="Python.dftb_prep" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.utils.pyx" />
+        <item itemvalue="Python.post_script" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2152502" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.5013193" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="1" visible="true" weight="0.40237468" />
+      <window_info anchor="bottom" id="Python Console" order="2" weight="0.28759894" />
+      <window_info anchor="bottom" id="Message" order="3" />
+      <window_info anchor="bottom" id="Educational.CheckDetails" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.32849604" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.30474934" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+      <path value="$PROJECT_DIR$/COFFI" />
+    </ignored-roots>
+    <MESSAGE value="WIP : Lammps bm works for COF1" />
+    <MESSAGE value="FIX : replica invariant \o/" />
+    <MESSAGE value="WIP : bm at least close to successful" />
+    <MESSAGE value="DOC : commented and cleaned" />
+    <MESSAGE value="WIP : set param as input" />
+    <MESSAGE value="WIP : user interface" />
+    <MESSAGE value="WIP : BM" />
+    <MESSAGE value="WIP : cythononize included" />
+    <MESSAGE value="WIP : cython" />
+    <MESSAGE value="WIP : LAMMPS launched from E_calc for bm" />
+    <MESSAGE value="UPDATE add files" />
+    <MESSAGE value="Safecopy before lmp funcs removal" />
+    <MESSAGE value="WIP egulp integration" />
+    <MESSAGE value="WIP egulp integration2" />
+    <MESSAGE value="WIP egulp integration3" />
+    <MESSAGE value="BCH : main" />
+    <MESSAGE value="TEST" />
+    <MESSAGE value="Bench marked" />
+    <MESSAGE value="full sheet bm LJ+Coul" />
+    <MESSAGE value="OS dependant functions fixed" />
+    <MESSAGE value="FIX : bug in min_pbc and network layer recognition" />
+    <MESSAGE value="EXPORT to desk computer" />
+    <MESSAGE value="input by text file enabled" />
+    <MESSAGE value="transfer" />
+    <MESSAGE value="Merge branch 'lmp_dev'" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'lmp_dev'" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-defaults>
+        <breakpoint type="python-line" />
+      </breakpoints-defaults>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/venv/ncount">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OUTPUTS/sigma_25/log.05000N2">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2996" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OUTPUTS/sigma_25/05000N2_E_map_pyth.dat">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OUTPUTS/sigma_25/05000N2_E_map_lmp.dat">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OUTPUTS/sigma_25/05000N2_z_scan_lmp.dat">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OUTPUTS/sigma_25/LAMMPS_BM_25.0.dat">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OUTPUTS/sigma_5/PYTHON_BM_5.0.dat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runfiles/in.05000N2">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OUTPUTS/sigma_15/LAMMPS_BM_15.0.dat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-151" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OUTPUTS/sigma_20/LAMMPS_BM_20.0.dat">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OUTPUTS/sigma_20/log.lammps">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OUTPUTS/sigma_20/log.05000N2">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1637" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runfiles/data.05000N2">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="932">
+          <caret line="67" selection-start-line="67" selection-end-line="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OUTPUTS/sigma_10/LAMMPS_BM_10.0.dat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-148" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OUTPUTS/sigma_5/LAMMPS_BM_5.0.dat">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runfiles/in.init">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OUTPUTS/05000N2/05000N2_E_map_pyth.dat">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OUTPUTS/05000N2/PYTHON_BM_10.dat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-118" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/initialization.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="162" column="32" selection-start-line="162" selection-start-column="32" selection-end-line="162" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OUTPUTS/05000N2/PYTHON_BM_5.dat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-118" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OUTPUTS/05000N2/PYTHON_BM_coul_10.dat">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OUTPUTS/08012N2/PYTHON_BM_coul_15.dat">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/param.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="41" column="13" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OUTPUTS/08012N2/PYTHON_BM_coul_20.dat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-118" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/post_proc/plot_allinone7.gnu">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lammps_interface-master_copy/lammps_interface/CIFIO.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OUTPUTS/08012N2/PYTHON_BM_coul_5.dat">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OUTPUTS/08012N2/PYTHON_BM_10.dat">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OUTPUTS/08012N2/PYTHON_BM_20.dat">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/INPUTS/05000N2.cif">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="34" column="40" lean-forward="true" selection-start-line="34" selection-start-column="40" selection-end-line="34" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OUTPUTS/05000N2/05000N2.cif">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-628" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OUTPUTS/08010N2/08010N2.cif">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1663" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OUTPUTS/08012N2/08012N2.cif">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1168" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OUTPUTS/08030N2/08030N2.cif">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2068" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OUTPUTS/09010N2/09010N2_E_map_pyth.dat">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OUTPUTS/08011N2.cif">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2848" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lammps_interface-master_copy/lammps_interface/structure_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="1536" selection-start-line="1536" selection-end-line="1536" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OUTPUTS/09010N2/09010N2.cif">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="45" lean-forward="true" selection-start-line="23" selection-start-column="45" selection-end-line="23" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OUTPUTS/05000N2/PYTHON_BM_coul_20.dat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OUTPUTS/08011N2/PYTHON_BM_coul_5.dat">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runfiles/in.08012N2">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runfiles/SUCCESS">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runfiles/data.probe">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runfiles/data.08012N2">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runfiles/header.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="269" selection-start-line="269" selection-end-line="269" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/post_script.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="67" column="24" selection-start-line="67" selection-start-column="24" selection-end-line="67" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/post_proc/plot_allinone8.gnu">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="31" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/plotter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/E_calc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="454">
+          <caret line="101" column="65" selection-start-line="101" selection-start-column="65" selection-end-line="101" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="93" column="26" lean-forward="true" selection-start-line="93" selection-start-column="26" selection-end-line="93" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,134 @@
+# UFF Force Field  LJ_6_12#
+# atom   sigma(Ang) eps(kcal/mol)  eps(K)     mass(g/mol) #
+H_       2.57113    0.4400E-01     22.1418    1.00800   ! hydrogen
+H___b    2.57113    0.4400E-01     22.1418    1.00800   ! hydrogen, bridging hydrogen
+He4+4     2.1043    0.5600E-01     28.1805    4.00260   ! helium
+Li       2.18359    0.2500E-01     12.5806    6.94100   ! lithium
+Be3+2    2.44552    0.8500E-01     42.7739    9.01200   ! beryllium
+B_3      3.63754    0.1800E+00     90.5801   10.81000   ! boron, tetrahedral
+B_2      3.63754    0.1800E+00     90.5801   10.81000   ! boron, trigonal
+C_3      3.43085    0.1050E+00     52.8384   12.01100   ! carbon, tetrahedral
+C_R      3.43085    0.1050E+00     52.8384   12.01100   ! carbon, resonant
+C_2      3.43085    0.1050E+00     52.8384   12.01100   ! carbon, trigonal
+C_1      3.43085    0.1050E+00     52.8384   12.01100   ! carbon, linear
+N_3      3.26069    0.6900E-01     34.7224   14.00670   ! nitrogen, tetrahedral
+N_R      3.26069    0.6900E-01     34.7224   14.00670   ! nitrogen, resonant
+N_2      3.26069    0.6900E-01     34.7224   14.00670   ! nitrogen, trigonal
+N_1      3.26069    0.6900E-01     34.7224   14.00670   ! nitrogen, linear
+O_3      3.11815    0.6000E-01     30.1934   15.99940   ! oxygen, tetrahedral
+O_3_z    3.11815    0.6000E-01     30.1934   15.99940   ! oxygen, tetrahedral, in zeolites
+O_R      3.11815    0.6000E-01     30.1934   15.99940   ! oxygen, resonant
+O_2      3.11815    0.6000E-01     30.1934   15.99940   ! oxygen, trigonal
+O_1      3.11815    0.6000E-01     30.1934   15.99940   ! oxygen, linear
+F_       2.99698    0.5000E-01     25.1611   18.99840   ! fluorine
+Ne4+4    2.88918    0.4200E-01     21.1354   20.17900   ! neon
+Na       2.65755    0.3000E-01     15.0967   22.99000   ! sodium
+Mg3+2    2.69141    0.1110E+00     55.8577   24.31000   ! magnesium, tetrahedral, +2 oxidation state
+Al3      4.00815    0.5050E+00     254.127   26.98150   ! aluminium, tetrahedral
+Si3      3.82641    0.4020E+00     202.296   28.08600   ! silicon, tetrahedral
+P_3+3    3.69456    0.3050E+00     153.483   30.97380   ! phosphorus, tetrahedral, +3 oxidation state
+P_3+5    3.69456    0.3050E+00     153.483   30.97380   ! phosphorus, tetrahedral, +5 oxidation state
+P_3+q    3.69456    0.3050E+00     153.483   30.97380   ! phosphorus, tetrahedral, 4 coordinated, in organometallics
+S_3+2    3.59478    0.2740E+00     137.883   32.06000   ! sulfur, tetrahedral, +2 oxidation state
+S_3+4    3.59478    0.2740E+00     137.883   32.06000   ! sulfur, tetrahedral, +4 oxidation state
+S_3+6    3.59478    0.2740E+00     137.883   32.06000   ! sulfur, tetrahedral, +6 oxidation state
+S_R      3.59478    0.2740E+00     137.883   32.06000   ! sulfur, resonant
+S_2      3.59478    0.2740E+00     137.883   32.06000   ! sulfur, trigonal
+Cl       3.51638    0.2270E+00     114.232   35.45300   ! chlorine
+Ar4+4      3.446    0.1850E+00     93.0962   39.94800   ! argon
+K_       3.39611    0.3500E-01     17.6128   39.94800   ! potassium
+Ca6+2    3.02816    0.2380E+00     119.767   40.08000   ! calcium, octahedral, +2 oxidation state
+Sc3+3    2.93551    0.1900E-01     9.56123   44.96000   ! scandium, tetrahedral, +3 oxidation state
+Ti3+4     2.8286    0.1700E-01     8.55479   47.96000   ! titantium, tetrahedral, +4 oxidation state
+Ti6+4     2.8286    0.1700E-01     8.55479   47.96000   ! titantium, octahedral, +4 oxidation state
+V_3+5    2.80099    0.1600E-01     8.05156   50.94000   ! vanadium, tetrahedral, +5 oxidation state
+Cr6+3    2.69319    0.1500E-01     7.54834   52.00000   ! chromium, octahedral, +3 oxidation state
+Mn6+2    2.63795    0.1300E-01      6.5419   54.94700   ! manganese, octahedral, +2 oxidation state
+Fe3+2     2.5943    0.1300E-01      6.5419   55.84700   ! iron, tetradedral, oxidation state
+Fe6+2     2.5943    0.1300E-01      6.5419   55.84700   ! iron, octahedral, +2 oxidation state
+Co6+3    2.55866    0.1400E-01     7.04512   58.93000   ! cobalt, octahedral, +3 oxidation state
+Ni4+2    2.52481    0.1500E-01     7.54834   58.71000   ! nickel, square planar, +2 oxidation state
+Cu3+1    3.11369    0.5000E-02     2.51611   63.55000   ! copper, tetrahedral, +1 oxidation state
+Zn3+2    2.46155    0.1240E+00     62.3996   65.37700   ! zinc, tetrahedral, +2 oxidation state
+Ga3+3    3.90481    0.4150E+00     208.837   69.72000   ! gallium, tetrahedral, +3 oxidation state
+Ge3      3.81305    0.3790E+00     190.721   72.59000   ! germanium, tetrahedral
+As3+3     3.7685    0.3090E+00     155.496   74.92160   ! arsenic, tetrahedral, +3 oxidation state
+Se3+2    3.74623    0.2910E+00     146.438   78.96000   ! selenium, tetrahedral, +2 oxidation state
+Br       3.73197    0.2510E+00     126.309   79.90400   ! bromine
+Kr4+4    3.68921    0.2200E+00     110.709   83.80000   ! krypton, square planar, +4 oxidation state
+Rb       3.66516    0.4000E-01     20.1289   85.47000   ! rubidium
+Sr6+2    3.24376    0.2350E+00     118.257   87.62000   ! strontium, octahedral, +2 oxidation state
+Y_3+3    2.98006    0.7200E-01      36.232   88.91000   ! yttrium, tetrahedral, +3 oxidation state
+Zr3+4    2.78317    0.6900E-01     34.7224   91.22000   ! zirconium, tetrahedral, +4 oxidation state
+Nb3+5    2.81969    0.5900E-01     29.6901   92.91000   ! niobium, tetrahedral, +5 oxidation state
+Mo6+6    2.71902    0.5600E-01     28.1805   95.94000   ! molybdenum, octahedral, +6 oxidation state
+Mo3+6    2.71902    0.5600E-01     28.1805   95.94000   ! molybdenum, tetrahedral, +6 oxidation state
+Tc6+5    2.67091    0.4800E-01     24.1547   99.00000   ! technetium, octahedral, +5 oxidation state
+Ru6+2    2.63973    0.5600E-01     28.1805  101.07000   ! ruthenium, octahedral, +2 oxidation state
+Rh6+3    2.60944    0.5300E-01     26.6708  102.91000   ! rhodium, octahedral, +3 oxidation state
+Pd4+2    2.58272    0.4800E-01     24.1547  106.40000   ! palladium, square planar, +2 oxidation state
+Ag1+1    2.80455    0.3600E-01      18.116  107.87000   ! silver, linear
+Cd3+2    2.53728    0.2280E+00     114.735  112.40000   ! cadmium, tetrahedral, +2 oxidation state
+In3+3    3.97608    0.5990E+00      301.43  114.82000   ! indium, tetrahedral, +3 oxidation state
+Sn3      3.91283    0.5670E+00     285.327  118.69000   ! tin, tetrahedral
+Sb3+3    3.93777    0.4490E+00     225.947  121.75000   ! antimony, tetrahedral, +3 oxidation state
+Te3+2    3.98232    0.3980E+00     200.283  127.60000   ! tellurium, tetrahedral, +2 oxidation state
+I_       4.00904    0.3390E+00     170.592  126.90450   ! iodine
+Xe4+4    3.92352    0.3320E+00      167.07  131.28999   ! xenon, square planar, +4 oxidation state
+Cs       4.02419    0.4500E-01      22.645  132.91000   ! cesium (caesium)
+Ba6+2      3.299    0.3640E+00     183.173  137.34000   ! barium, octahedral, +2 oxidation state
+La3+3    3.13775    0.1700E-01     8.55479  138.91000   ! lanthanum, tetrahedral, +3 oxidation state
+Ce6+3    3.16804    0.1300E-01      6.5419  140.12000   ! cerium, octahedral, +3 oxidation state
+Pr6+3    3.21258    0.1000E-01     5.03223  140.91000   ! praseodymium, octahedral, +3 oxidation state
+Nd6+3    3.18496    0.1000E-01     5.03223  144.24001   ! neodymium, octahedral, +3 oxidation state
+Pm6+3    3.16002    0.9000E-02       4.529  147.00000   ! promoethium, octahedral, +3 oxidation state
+Sm6+3    3.13596    0.8000E-02     4.02578  150.39999   ! samarium, octahedral, +3 oxidation state
+Eu6+3    3.11191    0.8000E-02     4.02578  151.96001   ! europium, octahedral, +3 oxidation state
+Gd6+3    3.00055    0.9000E-02       4.529  157.25000   ! gadolinium, octahedral, +3 oxidation state
+Tb6+3    3.07449    0.7000E-02     3.52256  158.92999   ! terbium, octahedral, +3 oxidation state
+Dy6+3      3.054    0.7000E-02     3.52256  162.50000   ! dysprosium, octahedral, +3 oxidation state
+Ho6+3    3.03707    0.7000E-02     3.52256  164.92999   ! holmium, octahedral, +3 oxidation state
+Er6+3    3.02104    0.7000E-02     3.52256  167.25999   ! erbium, octahedral, +3 oxidation state
+Tm6+3    3.00589    0.6000E-02     3.01934  168.92999   ! thulium, octahedral, +3 oxidation state
+Yb6+3    2.98897    0.2280E+00     114.735  173.03999   ! ytterium, octahedral, +3 oxidation state
+Lu6+3    3.24287    0.4100E-01     20.6321  174.97000   ! lutetium, octahedral, +3 oxidation state
+Hf3+4    2.79831    0.7200E-01      36.232  178.49001   ! hafnium, tetrahedral, +4 oxidation state
+Ta3+5    2.82415    0.8100E-01      40.761  180.95000   ! tantalum, tetrahedral, +5 oxidation state
+W_6+6    2.73417    0.6700E-01     33.7159  183.85001   ! tungsten, octahedral, +6 oxidation state
+W_3+4    2.73417    0.6700E-01     33.7159  183.85001   ! tungsten, tetrahedral, +4 oxidation state
+W_3+6    2.73417    0.6700E-01     33.7159  183.85001   ! tungsten, tetrahedral, +6 oxidation state
+Re6+5    2.63171    0.6600E-01     33.2127  186.20000   ! rhenium, octahedral, +5 oxidation state
+Re3+7    2.63171    0.6600E-01     33.2127  186.20000   ! rhenium, tetrahedral, +7 oxidation state
+Os6+6     2.7796    0.3700E-01     18.6192  190.20000   ! osmium, octahedral, +6 oxidation state
+Ir6+3    2.53015    0.7300E-01     36.7353  192.20000   ! iridium, octahedral, +3 oxidation state
+Pt4+2    2.45354    0.8000E-01     40.2578  195.09000   ! platinum, square planar, +2 oxidation state
+Au4+3    2.93373    0.3900E-01     19.6257  196.97000   ! gold, square planar, +3 oxidation state
+Hg1+2    2.40988    0.3850E+00     193.741  200.59000   ! mercury, linear, +2 oxidation state
+Tl3+3    3.87274    0.6800E+00     342.191  204.37000   ! thallium, tetrahedral, +3 oxidation state
+Pb3      3.82819    0.6630E+00     333.637  207.20000   ! lead, tetrahedral
+Bi3+3    3.89323    0.5180E+00     260.669  208.98000   ! bismuth, tetrahedral, +3 oxidation state
+Po3+2    4.19524    0.3250E+00     163.547  210.00000   ! polonium, tetrahedral, +2 oxidation state
+At       4.23177    0.2840E+00     142.915  210.00000   ! astatine
+Rn4+4    4.24513    0.2480E+00     124.799  222.00000   ! radon, square planar, +4 oxidation state
+Fr        4.3654    0.5000E-01     25.1611  223.00000   ! francium
+Ra6+2    3.27583    0.4040E+00     203.302  226.00000   ! radium, octahedral, +2 oxidation state
+Ac6+3    3.09855    0.3300E-01     16.6063  227.00000   ! actinium, octahedral, +3 oxidation state
+Th6+4    3.02549    0.2600E-01     13.0838  232.03999   ! thorium, octahedral, +4 oxidation state
+Pa6+4    3.05044    0.2200E-01     11.0709  231.00000   ! protoactinium, octahedral, +4 oxidation state
+U_6+4     3.0246    0.2200E-01     11.0709  238.03000   ! uranium, octahedral, +4 oxidation state
+Np6+4    3.05044    0.1900E-01     9.56123  237.00000   ! neptunium, octahedral, +4 oxidation state
+Pu6+4    3.05044    0.1600E-01     8.05156  244.00000   ! plutonium, octahedral, +4 oxidation state
+Am6+4    3.01213    0.1400E-01     7.04512  243.00000   ! americium, octahedral, +4 oxidation state
+Cm6+3    2.96313    0.1300E-01      6.5419  245.00000   ! curium, octahedral, +3 oxidation state
+Bk6+3    2.97471    0.1300E-01      6.5419  247.00000   ! berkelium, octahedral, +3 oxidation state
+Cf6+3    2.95155    0.1300E-01      6.5419  249.00000   ! californium, octahedral, +3 oxidation state
+Es6+3    2.93907    0.1200E-01     6.03867  254.00000   ! einsteinium, octahedral, +3 oxidation state
+Fm6+3    2.92749    0.1200E-01     6.03867  255.00000   ! fermium, octahedral, +3 oxidation state
+Md6+3     2.9168    0.1100E-01     5.53545  256.00000   ! mendelevium, octahedral, +3 oxidation state
+No6+3    2.89364    0.1100E-01     5.53545  254.00000   ! nobelium, octahedral, +3 oxidation state
+Lw6+3    2.88295    0.1100E-01     5.53545  257.00000   ! lawrencium, octahedral, +3 oxidation state
+CpR      3.43085    0.0000E+00           0   12.01100   ! pi-system, high valent cyclopentadienyl complexes
+CpR_B    3.43085    0.0000E+00           0   12.01100   ! pi-system, low valent cyclopentadienyl complexes with significant back bonding
+CiR      3.43085    0.0000E+00           0   12.01100   ! pi-system, in ethenyl
+PiR      3.43085    0.0000E+00           0   12.01100   ! pi-system, in allyl 
+D_       2.57113    0.4400E-01     22.1418    2.01400   ! deuterium

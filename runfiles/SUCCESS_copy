@@ -1,0 +1,29 @@
+log             log.05000N2 append
+units           real
+atom_style      charge
+boundary        p p p
+
+#compute 1 all pair lj/cut/coul/cut
+pair_style      lj/cut/coul/long 2.0
+kspace_style ewald 1.0e-4
+#pair_style      lj/cut/coul/cut 2.0
+
+dielectric      1.0
+box tilt        large
+read_data       ../runfiles/data.05000N2 group lower
+
+#### Atom Groupings ####
+group           1        id   1:2
+#### END Atom Groupings ####
+
+#kspace_style pppm 1.0e-4
+read_data ../runfiles/data.probe add append group higher
+#compute pi lower group/group higher
+compute 123 lower group/group higher kspace yes
+thermo_style custom c_123
+#thermo_style custom evdwl ecoul
+fix 1 all setforce 0.0 0.0 0.0
+run 1
+print "///// ///$(evdwl)///$(ecoul)///"
+#print "///// ///$(c_123)///0///"
+
